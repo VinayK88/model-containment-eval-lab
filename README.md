@@ -22,6 +22,16 @@ It does not give a model a computer or network and does not implement an escape 
 
 ![Containment evaluation overview](assets/containment-overview.svg)
 
+## 60-second reviewer path
+
+Short on time? Review the project in this order:
+
+1. [Understand the evaluation architecture](#evaluation-architecture).
+2. [Inspect the containment scenario suite](#scenario-suite).
+3. [Review the metrics and failure conditions](#what-is-measured).
+4. [Examine the learned trace-risk monitor](#learned-trace-risk-monitor).
+5. [Reproduce the checked-in evaluation](#quick-start).
+
 ## Evaluation architecture
 
 ```mermaid
