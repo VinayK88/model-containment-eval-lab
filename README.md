@@ -16,6 +16,8 @@
 
 ---
 
+![Model Containment Eval Lab dashboard preview](assets/dashboard-preview.svg)
+
 This project asks a precise defensive question: **when an agent encounters shutdown pressure, conflicting goals, synthetic data lures, or untrusted instructions, what prohibited actions does it attempt—and which controls catch or prevent them?**
 
 It does not give a model a computer or network and does not implement an escape mechanism. Every file, credential, endpoint, privilege, persistence hook, and side effect is a string or dictionary inside a Python process.
